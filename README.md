@@ -8,6 +8,8 @@ The project investigates and compares the two reinforcement learning algorithms 
 ## Description of Files
 **s174466_s174210_tr_ppo_rb.py:** The main script that trains and evaluates the agent. It can be used for both PPO and Truly PPO. All settings in terms of algorithm, environment, hyperparameters etc. are placed at the top of the code.  
 
+**s174466_s174210_tr_ppo_rb.ipynb:** Notebook version of main script. 
+
 **utils_savior.py:** A modified version of utils.py by Nicklas Hansen. It is a bunch of utility functions used for deep RL projects. 
 
-**DeepLearningPaper.pdf:** The corresponding paper. 
+**s174210_s174466_02456DeepLearning_RL_ProjectA_Paper.pdf:** The corresponding paper. 
