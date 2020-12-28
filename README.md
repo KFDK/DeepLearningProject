@@ -13,3 +13,5 @@ The project investigates and compares the two reinforcement learning algorithms 
 **utils_savior.py:** A modified version of utils.py by Nicklas Hansen. It is a bunch of utility functions used for deep RL projects. 
 
 **s174210_s174466_02456DeepLearning_RL_ProjectA_Paper.pdf:** The corresponding paper. 
+
+**s174210_s174466_02456DeepLearning_RL_ProjectA_Poster.pdf** The corresponding poster
